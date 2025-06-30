@@ -7,7 +7,7 @@ Capture live network packets using Wireshark and identify basic protocols and tr
 
 ## 🛠 Tools Used
 - **Wireshark** (Packet analyzer)
-- **Operating System**: [mention your OS, e.g., Windows 10 / Kali Linux]
+- **Operating System**: [Kali Linux]
 
 ---
 
