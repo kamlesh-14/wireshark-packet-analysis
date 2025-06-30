@@ -26,7 +26,7 @@ Capture live network packets using Wireshark and identify basic protocols and tr
   - Active connections established with external servers (e.g., `google.com`)
   - Port 443 (HTTPS) and 80 (HTTP) were primarily used
 
-📸 *[Include screenshot: tcp_traffic.png]*
+📸 [TCP Traffic Screenshot](tcp.png)
 
 ---
 
@@ -37,7 +37,7 @@ Capture live network packets using Wireshark and identify basic protocols and tr
   - Header fields like `Host`, `User-Agent`, and `Accept` were visible
   - Server responded with `200 OK` or redirects (like `301 Moved Permanently`)
 
-📸 *[Include screenshot: http_traffic.png]*
+📸 [TCP Traffic Screenshot](http.png)
 
 ---
 
@@ -48,6 +48,7 @@ Capture live network packets using Wireshark and identify basic protocols and tr
   - Response included IPv4 addresses (`A records`)
   - Communication over UDP port 53
 
+📸 [TCP Traffic Screenshot](dns.png)
 
 ---
 
